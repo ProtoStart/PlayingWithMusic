@@ -1,6 +1,15 @@
 music-grid.surge.sh isn't our website, but it is a handy free to use website for making tunes. It doesn't require any music knowledge or technical skill.
 
-The URLs it creates contain the tune - which is why they are long, but it also means that you don't have to make an account at all, and you can save the URL to basically save the tune. The code seems to be available on github too (so if the website went down theoretically you could use there code to make another player to play your URLs, or we could expand it - maybe adding row numbers). In the music grid each division of time in the music has a row. The URLs have values for the notes on each row represented as a number and they are split with - symbols. The values for each row are made by converting the position of the dots into binary and then converting that into decimal. So the right most dot is worth 1, second from right 2, then 4, then 8, then 16 etc. It adds up all those values on that row, to make a single value for the row from 0 to 4095 inclusive. Those row values are between an # and the first & symbol of the URL in reverse order to the way they are played. Then after the first & we have the value for the speed setting, then after another & symbol we have the value for the "scale" setting - which a select menu on the website lets you choose between. To see this in action nice and clearly look at the URL for "Binary in music" below and then paste it into your browser to compare the result!
+The URLs it creates contain the tune - which is why they are long, but it also means that you don't have to make an account at all, and you can save the URL to save the tune, or even just the the URL to someone. 
+
+The code seems to be available on github too (so if the website went down theoretically you could use there code to make another player to play your URLs, or we could expand it - maybe adding row numbers). 
+
+In the music grid each division of time in the music has a row. The URLs have values for the notes on each row represented as a number and they are split with - symbols. 
+The values for each row are made by converting the position of the dots into binary and then converting that into decimal. So the right most dot is worth 1, second from right 2, then 4, then 8, then 16 etc. 
+It adds up all those values on that row, to make a single value for the row from 0 to 4095 inclusive. 
+Those row values are between an # and the first & symbol of the URL in reverse order to the way they are played. 
+Then after the first & we have the value for the speed setting, then after another & symbol we have the value for the "scale" setting - which a select menu on the website lets you choose between. 
+To see this in action really clearly, look at the URL for "Binary in music" below and then paste it into your browser to compare the result!
 
 Binary in music by Phil Ganney
 https://music-grid.surge.sh/#4095-16-15-14-13-12-11-10-9-8-7-6-5-4-3-2-1-0-2048-1024-512-256-128-64-32-16-8-4-2-1-0-&500&classic
