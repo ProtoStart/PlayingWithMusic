@@ -1,4 +1,4 @@
-music-grid.surge.sh isn't our website, but it is a handy free to use website for making tunes. It doesn't require any music knowledge or technical skill.
+music-grid.surge.sh isn't our website, but it is a handy free to use website for making tunes. It doesn't require any music knowledge or technical skill. Tunes are simple - it's great for music for a retro style game, or an old school ringtone or for playing with music, but it's not mp3 quality. (It's literally "12 bit" music)
 
 The URLs it creates contain the tune - which is why they are long, but it also means that you don't have to make an account at all, and you can save the URL to save the tune, or even just the the URL to someone. 
 
@@ -19,3 +19,12 @@ https://music-grid.surge.sh/#2560-2048-0-2048-0-1024-0-512-0-64-0-32-0-64-0-32-0
 
 Quick steps through the forest (short), by Phil Ganney - I shortened it by removing the first few number parts of the URL, which results in taking off the those "rows" in the player
 https://music-grid.surge.sh/#0-256-128-64-0-256-128-64-0-64-32-16-0-64-32-16-0-128-0-64-0-128-0-64-0-32-0-16-0-32-0-16-0-128-0-64-0-128-0-64-0-32-0-16-0-32-0-16-&500&classic
+
+Quick! Move it! by Phil Ganney  - short loop of music that could be cool for an action segment of a game
+https://music-grid.surge.sh/#320-160-0-1024-0-1024-0-80-2560-40-2560-160-320-160-320-160-&200&classic
+
+a llama alarmed by Phil Ganney - potential alarm music 
+https://music-grid.surge.sh/#2561-2-1-2-2561-2-1-2-2561-2-1-2-1-2-1-2-&442&classic
+
+Plod on by Phil Ganney  - Could be handy in games for a slow pace section, and maybe if you can speed it up during the game tetris style, it can give a ramping up effect, then maybe switch over one of the panicky tunes for really difficult sections 
+https://music-grid.surge.sh/#128-1024-128-1024-256-2048-256-2048-320-2560-320-2560-256-2048-256-2048-&103&classic
